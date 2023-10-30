@@ -1,2 +1,2 @@
-usr name : Thil
-pw : 1234567
+user name : thilagan 
+password : 12345
